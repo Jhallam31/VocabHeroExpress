@@ -11,4 +11,4 @@ exports.uploader = (request) => {
 
 exports.sendEmail = (to, from, subject, html) => {
     
-}
+};

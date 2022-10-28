@@ -45,6 +45,7 @@ const UserSchema = new mongoose.Schema({
         required: false,
         max: 255
     }
+
 }, {timestamps: true});
 
 
